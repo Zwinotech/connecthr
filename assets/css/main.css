@@ -52,7 +52,7 @@ body {
 	z-index: 2;
 }
 .navigation {
-	height: 120px;
+	min-height: 120px;
 	border-bottom: #6b2b8f solid 10px;
 	margin-bottom: 6px;
 }
