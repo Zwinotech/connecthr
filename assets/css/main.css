@@ -64,3 +64,34 @@ a.active {
 	font-weight: bold;
 	font-size: 16px;
 }
+
+.hr {
+	background: #6b2b8f;
+	color: white;
+	width: 500px;
+	text-align: center;
+	margin-top: 30px;
+}
+
+.contact {
+	font-size: x-large;
+	color: #6b2b8f;
+	margin-top: 30px;
+}
+
+.reach-out {
+	width: 450px;
+	color: #6b2b8f;
+	margin-top: 8px;
+	margin-bottom: 20px;
+}
+
+.Fricker-Road{
+	background: rgb(194, 54, 54);
+	color: white;
+	width: 600px;
+}
+
+.icon-button {
+  color: white;
+}
