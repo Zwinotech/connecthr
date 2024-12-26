@@ -359,17 +359,17 @@
 		<div class="partners-section">
 			<div class="partners-title">OUR CLIENTS & STRATEGIC PARTNERS</div>
 			<div class="partners-logos mt-5">
-				<img src="https://via.placeholder.com/150x50?text=EasyEquities" alt="EasyEquities" />
-				<img src="https://via.placeholder.com/150x50?text=mydough" alt="mydough" />
-				<img src="https://via.placeholder.com/150x50?text=Exclusive+Books" alt="Exclusive Books" />
-				<img src="https://via.placeholder.com/150x50?text=Telkom" alt="Telkom" />
-				<img src="https://via.placeholder.com/150x50?text=Brooklyn+Aesthetics" alt="Brooklyn Aesthetics" />
-				<img src="https://via.placeholder.com/150x50?text=Mulax" alt="Mulax" />
-				<img src="https://via.placeholder.com/150x50?text=Mapunyane" alt="Mapunyane" />
-				<img src="https://via.placeholder.com/150x50?text=Adonai" alt="Adonai" />
-				<img src="https://via.placeholder.com/150x50?text=Purcee+Industrial+Africa"
+				<img src="https://via.placeholder.com/300x100?text=EasyEquities" alt="EasyEquities" />
+				<img src="https://via.placeholder.com/300x100?text=mydough" alt="mydough" />
+				<img src="https://via.placeholder.com/300x100?text=Exclusive+Books" alt="Exclusive Books" />
+				<img src="https://via.placeholder.com/300x100?text=Telkom" alt="Telkom" />
+				<img src="https://via.placeholder.com/300x100?text=Brooklyn+Aesthetics" alt="Brooklyn Aesthetics" />
+				<img src="https://via.placeholder.com/300x100?text=Mulax" alt="Mulax" />
+				<img src="https://via.placeholder.com/300x100?text=Mapunyane" alt="Mapunyane" />
+				<img src="https://via.placeholder.com/300x100?text=Adonai" alt="Adonai" />
+				<img src="https://via.placeholder.com/300x100?text=Purcee+Industrial+Africa"
 					alt="Purcee Industrial Africa" />
-				<img src="https://via.placeholder.com/150x50?text=HR+Consulting" alt="HR and Payroll Consulting" />
+				<img src="https://via.placeholder.com/300x100?text=HR+Consulting" alt="HR and Payroll Consulting" />
 			</div>
 		</div>
 	</div>
