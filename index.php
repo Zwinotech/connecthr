@@ -6,6 +6,8 @@
 	<meta name="viewport" content="width=device-width, initial-scale=1.0" />
 	<title>HR Solutions</title>
 	<link rel="preconnect" href="https://fonts.googleapis.com" />
+	<link rel="shortcut icon" href="assets/images/favicon.png">
+	<link rel="icon" href="assets/images/favicon.png">
 	<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
 	<link
 		href="https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap"
@@ -47,10 +49,11 @@
 					<li class="nav-item">
 						<a class="nav-link" href="#pricing">Pricing</a>
 					</li>
+					<li class="nav-item"><a class="nav-link" href="#faq">FAQ</a></li>
+
 					<li class="nav-item">
 						<a class="nav-link" href="#contact">Contact</a>
 					</li>
-					<li class="nav-item"><a class="nav-link" href="#faq">FAQ</a></li>
 				</ul>
 			</div>
 		</div>
@@ -76,7 +79,7 @@
 		</div>
 	</section>
 
-	<div class="container-fluid py-5" id="about-us">
+	<div class="container-fluid pb-4" id="about-us">
 		<div class="row">
 			<!-- About Us Section -->
 			<div class="col-md-6">
@@ -183,7 +186,7 @@
 							</div>
 						</div>
 						<button class="btn btn-primary leftLst">
-							<< /button>
+							< </button>
 								<button class="btn btn-primary rightLst">></button>
 					</div>
 				</div>
@@ -193,7 +196,7 @@
 		<div class="container mt-4">
 			<div class="row">
 				<div class="col-md-8">
-					<h3 class="subscribe text-center">
+					<h3 class="subscribe">
 						Subscribe today for more updates
 					</h3>
 				</div>
@@ -294,50 +297,65 @@
 				<div class="pricing-card">
 					<h4>Individual</h4>
 					<h2>R21.85</h2>
-					<p>Monthly</p>
+					<p>Per Person - Monthly</p>
 					<hr class="text-white my-3" />
 					<p>1 to 5 employees</p>
-					<button class="btn-get-started">Get Started</button>
+					<p>
+						<a class="btn-get-started" href="#contact">Get Started</a>
+					</p>
+
 				</div>
 			</div>
 			<div class="col-md-4 mb-4">
 				<div class="pricing-card">
 					<h4>Freelance</h4>
 					<h2>R23.00</h2>
-					<p>Monthly</p>
+					<p>Per Person - Monthly</p>
 					<hr class="text-white my-3" />
 					<p>6 to 10 employees</p>
-					<button class="btn-get-started">Get Started</button>
+					<p>
+						<a class="btn-get-started" href="#contact">Get Started</a>
+					</p>
+
 				</div>
 			</div>
 			<div class="col-md-4 mb-4">
 				<div class="pricing-card">
 					<h4>Small Businesss</h4>
 					<h2>24.75</h2>
-					<p>Monthly</p>
+					<p>Per Person - Monthly</p>
 					<hr class="text-white my-3" />
 					<p>11 to 50 employees</p>
-					<button class="btn-get-started">Get Started</button>
+					<p>
+						<a class="btn-get-started" href="#contact">Get Started</a>
+					</p>
+
 				</div>
 			</div>
 			<div class="col-md-4 mb-4">
 				<div class="pricing-card">
 					<h4>Medium Business</h4>
 					<h2>R26.45</h2>
-					<p>Monthly</p>
+					<p>Per Person - Monthly</p>
 					<hr class="text-white my-3" />
 					<p>51 to 100 employees</p>
-					<button class="btn-get-started">Get Started</button>
+					<p>
+						<a class="btn-get-started" href="#contact">Get Started</a>
+					</p>
+
 				</div>
 			</div>
 			<div class="col-md-4 mb-4">
 				<div class="pricing-card">
 					<h4>Corporate</h4>
 					<h2>R28.75</h2>
-					<p>Monthly</p>
+					<p>Per Person - Monthly</p>
 					<hr class="text-white my-3" />
 					<p>101 to 200 employees</p>
-					<button class="btn-get-started">Get Started</button>
+					<p>
+						<a class="btn-get-started" href="#contact">Get Started</a>
+					</p>
+
 				</div>
 			</div>
 			<div class="col-md-4 mb-4">
@@ -347,7 +365,10 @@
 					<p>Monthly</p>
 					<hr class="text-white my-3" />
 					<p>For more than 200 employees</p>
-					<button class="btn-get-started">Get Started</button>
+					<p>
+						<a class="btn-get-started" href="#contact">Get Started</a>
+					</p>
+
 				</div>
 			</div>
 		</div>
@@ -355,21 +376,90 @@
 
 	<!-- Partners -->
 
-	<div class="container py-5">
+	<div class="container py-5 mt-5" id="Partners">
 		<div class="partners-section">
-			<div class="partners-title">OUR CLIENTS & STRATEGIC PARTNERS</div>
-			<div class="partners-logos mt-5">
-				<img src="https://via.placeholder.com/300x100?text=EasyEquities" alt="EasyEquities" />
-				<img src="https://via.placeholder.com/300x100?text=mydough" alt="mydough" />
-				<img src="https://via.placeholder.com/300x100?text=Exclusive+Books" alt="Exclusive Books" />
-				<img src="https://via.placeholder.com/300x100?text=Telkom" alt="Telkom" />
-				<img src="https://via.placeholder.com/300x100?text=Brooklyn+Aesthetics" alt="Brooklyn Aesthetics" />
-				<img src="https://via.placeholder.com/300x100?text=Mulax" alt="Mulax" />
-				<img src="https://via.placeholder.com/300x100?text=Mapunyane" alt="Mapunyane" />
-				<img src="https://via.placeholder.com/300x100?text=Adonai" alt="Adonai" />
-				<img src="https://via.placeholder.com/300x100?text=Purcee+Industrial+Africa"
-					alt="Purcee Industrial Africa" />
-				<img src="https://via.placeholder.com/300x100?text=HR+Consulting" alt="HR and Payroll Consulting" />
+			<div class="partners-title mb-5">OUR CLIENTS & STRATEGIC PARTNERS</div>
+			<div class="mt-5">
+				<div class="row" style="margin-top: 100px">
+					<div class="col-md-3 mb-3">
+						<img src="assets/images/easyequities-logo.png" class="img-fluid" alt="Easy Equities">
+					</div>
+					<div class="col-md-3 mb-3">
+						<img src="assets/images/mulax.png" class="img-fluid" alt="Mulax">
+					</div>
+					<div class="col-md-3 mb-3">
+						<img src="assets/images/mydough.png" class="img-fluid" alt="My Dough">
+					</div>
+
+					<div class="col-md-3 mb-3">
+						<img src="assets/images/telkom.png" class="img-fluid" alt="Telkom">
+					</div>
+				</div>
+
+				<div class="row mt-5 mb-5">
+					<div class="col-md-3 mb-3">
+						<img src="assets/images/purcee.png" class="img-fluid" alt="Purcee Industrial Africa">
+					</div>
+					<div class="col-md-3 mb-3">
+						<img src="assets/images/mapunyane.png" class="img-fluid" alt="Mapunyane Holdings">
+					</div>
+					<div class="col-md-3 mb-3">
+						<img src="assets/images/vhg.png" class="img-fluid" alt="CHG">
+					</div>
+					<div class="col-md-3 mb-3 text-center">
+						<img src="assets/images/adonai.png" class="img-fluid" style="max-height: 114px;" alt="Adonai">
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+
+	<div class="container py-5" id="faq">
+		<div class="row">
+			<div class="col">
+				<div class="faq-badge">
+					<h2>FAQs</h2>
+				</div>
+
+				<div class="d-sm-none d-md-block">
+					<div class="faq-title">
+						<h2>Frequently Asked Questions
+						</h2>
+					</div>
+				</div>
+
+			</div>
+		</div>
+
+		<div class="row">
+			<div class="col-md-12 mt-4">
+				<div class="faq">
+					<h3>1. Are there training sessions available for new users?</h3>
+					<p>
+						Yes, we offer comprehensive training sessions for new users. Additionally,we provide assistance
+						with onboarding employees to ensure a smooth transition and effective use of our system.
+					</p>
+				</div>
+			</div>
+
+			<div class="col-md-12">
+				<div class="faq">
+					<h3>2. How do I schedule a demo with Connect HR?</h3>
+					<p>
+						Click on <a href="#contact">Contact</a> to get in touch with our Sales and Customer Care Team.
+						Alternatively, kindly email info@connecthr.co.za.
+					</p>
+				</div>
+			</div>
+
+			<div class="col-md-12">
+				<div class="faq">
+					<h3>3. Is my data secure?</h3>
+					<p>
+						Yes, your data is secure. We use encryption, regular security audits and strict access controls.
+						We also have strong back up and recovery system. Your security is our top priority.
+					</p>
+				</div>
 			</div>
 		</div>
 	</div>

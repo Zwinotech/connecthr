@@ -114,50 +114,60 @@ monthlyBtn.addEventListener('click', () => {
 					<div class="pricing-card">
 						<h4>Individual</h4>
 						<h2>R21.85</h2>
-						<p>Monthly</p>
+						<p>Per Person - Monthly</p>
 						<hr class="text-white my-3" />
 						<p>1 to 5 employees</p>
-						<button class="btn-get-started">Get Started</button>
+						<p>
+							<a class="btn-get-started" href="#contact">Get Started</a>
+						</p>
 					</div>
 				</div>
 				<div class="col-md-4 mb-4">
 					<div class="pricing-card">
 						<h4>Freelance</h4>
 						<h2>R23.00</h2>
-						<p>Monthly</p>
+						<p>Per Person - Monthly</p>
 						<hr class="text-white my-3" />
 						<p>6 to 10 employees</p>
-						<button class="btn-get-started">Get Started</button>
+						<p>
+							<a class="btn-get-started" href="#contact">Get Started</a>
+						</p>
 					</div>
 				</div>
 				<div class="col-md-4 mb-4">
 					<div class="pricing-card">
-						<h4>Small Businesss</h4>
+						<h4>Small Business</h4>
 						<h2>24.75</h2>
-						<p>Monthly</p>
+						<p>Per Person - Monthly</p>
 						<hr class="text-white my-3" />
 						<p>11 to 50 employees</p>
-						<button class="btn-get-started">Get Started</button>
+						<p>
+							<a class="btn-get-started" href="#contact">Get Started</a>
+						</p>
 					</div>
 				</div>
 				<div class="col-md-4 mb-4">
 					<div class="pricing-card">
 						<h4>Medium Business</h4>
 						<h2>R26.45</h2>
-						<p>Monthly</p>
+						<p>Per Person - Monthly</p>
 						<hr class="text-white my-3" />
 						<p>51 to 100 employees</p>
-						<button class="btn-get-started">Get Started</button>
+						<p>
+							<a class="btn-get-started" href="#contact">Get Started</a>
+						</p>
 					</div>
 				</div>
 				<div class="col-md-4 mb-4">
 					<div class="pricing-card">
 						<h4>Corporate</h4>
 						<h2>R28.75</h2>
-						<p>Monthly</p>
+						<p>Per Person - Monthly</p>
 						<hr class="text-white my-3" />
 						<p>101 to 200 employees</p>
-						<button class="btn-get-started">Get Started</button>
+						<p>
+							<a class="btn-get-started" href="#contact">Get Started</a>
+						</p>
 					</div>
 				</div>
 				<div class="col-md-4 mb-4">
@@ -167,7 +177,9 @@ monthlyBtn.addEventListener('click', () => {
 						<p>Monthly</p>
 						<hr class="text-white my-3" />
 						<p>For more than 200 employees</p>
-						<button class="btn-get-started">Get Started</button>
+						<p>
+							<a class="btn-get-started" href="#contact">Get Started</a>
+						</p>
 					</div>
 				</div>
             `;
@@ -181,50 +193,60 @@ yearlyBtn.addEventListener('click', () => {
 					<div class="pricing-card">
 						<h4>Individual</h4>
 						<h2>R262.20</h2>
-						<p>Annually</p>
+						<p>Per Person - Annually</p>
 						<hr class="text-white my-3" />
 						<p>1 to 5 employees</p>
-						<button class="btn-get-started">Get Started</button>
+						<p>
+							<a class="btn-get-started" href="#contact">Get Started</a>
+						</p>
 					</div>
 				</div>
 				<div class="col-md-4 mb-4">
 					<div class="pricing-card">
 						<h4>Freelance</h4>
 						<h2>R276.00</h2>
-						<p>Annually</p>
+						<p>Per Person - Annually</p>
 						<hr class="text-white my-3" />
 						<p>6 to 10 employees</p>
-						<button class="btn-get-started">Get Started</button>
+						<p>
+							<a class="btn-get-started" href="#contact">Get Started</a>
+						</p>
 					</div>
 				</div>
 				<div class="col-md-4 mb-4">
 					<div class="pricing-card">
 						<h4>Small Business</h4>
 						<h2>R297.00</h2>
-						<p>Annually</p>
+						<p>Per Person - Annually</p>
 						<hr class="text-white my-3" />
 						<p>11 to 50 employees</p>
-						<button class="btn-get-started">Get Started</button>
+						<p>
+							<a class="btn-get-started" href="#contact">Get Started</a>
+						</p>
 					</div>
 				</div>
 				<div class="col-md-4 mb-4">
 					<div class="pricing-card">
 						<h4>Medium Business</h4>
 						<h2>R317.40</h2>
-						<p>Annually</p>
+						<p>Per Person - Annually</p>
 						<hr class="text-white my-3" />
 						<p>51 to 100 employees</p>
-						<button class="btn-get-started">Get Started</button>
+						<p>
+							<a class="btn-get-started" href="#contact">Get Started</a>
+						</p>
 					</div>
 				</div>
 				<div class="col-md-4 mb-4">
 					<div class="pricing-card">
 						<h4>Corporate</h4>
 						<h2>R345.00</h2>
-						<p>Annually</p>
+						<p>Per Person - Annually</p>
 						<hr class="text-white my-3" />
 						<p>101 to 200 employees</p>
-						<button class="btn-get-started">Get Started</button>
+						<p>
+							<a class="btn-get-started" href="#contact">Get Started</a>
+						</p>
 					</div>
 				</div>
 				<div class="col-md-4 mb-4">
@@ -234,8 +256,10 @@ yearlyBtn.addEventListener('click', () => {
 						<p>Annually</p>
 						<hr class="text-white my-3" />
 						<p>For more than 200 employees</p>
-						<button class="btn-get-started">Get Started</button>
+						<p>
+							<a class="btn-get-started" href="#contact">Get Started</a>
+						</p>
 					</div>
-				</div>s
+				</div>
             `;
 });
