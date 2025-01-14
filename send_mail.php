@@ -12,7 +12,7 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
     }
 
     // Email settings
-    $to = 'infor@connecthr.co.za';
+    $to = 'info@connecthr.co.za';
     $email_subject = "Contact Form: $subject";
     $email_body = "Name: $name\nEmail: $email\n\nMessage:\n$message";
 
