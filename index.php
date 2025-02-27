@@ -86,11 +86,10 @@
 				<div class="about-title text-center">ABOUT US</div>
 				<div class="about-description mt-4">
 					<div class="about-content">
-						Connect HR is an integrated software system aiming to assist HR
-						Practitioners who service SMMEs.<br /><br />
-						At Connect HR organizations spend more time on core functions and
-						less time on administrative HR processes.<br /><br />
-						Do HR the easy way with Connect HR.
+						Connect HR is an integrated HR software designed to support Skills Development Agencies and HR practitioners. 
+						<br />By streamlining HR processes,
+						<br />Connect HR allows organisations to focus more on their core functions 
+						<br />and less on administrative tasks, improving efficiency and productivity.
 					</div>
 				</div>
 			</div>
