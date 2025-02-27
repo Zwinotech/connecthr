@@ -86,10 +86,11 @@
 				<div class="about-title text-center">ABOUT US</div>
 				<div class="about-description mt-4">
 					<div class="about-content">
-						Connect HR is an integrated HR software designed to support Skills Development Agencies and HR practitioners. 
-						<br />By streamlining HR processes,
-						<br />Connect HR allows organisations to focus more on their core functions 
-						<br />and less on administrative tasks, improving efficiency and productivity.
+						Connect HR is the leading HR software provider for Skills Development Agencies, 
+						<br />designed to simplify HR processes for our training partners. 
+						<br />Our software is specifically tailored to meet the unique needs of Skills Development Agencies, 
+						<br />enabling them to manage learner payroll and payslips, digitally distribute payslips to learners, 
+						<br />and collaborate to make a positive contribution to South Africa's GDP
 					</div>
 				</div>
 			</div>
