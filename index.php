@@ -65,8 +65,8 @@
 			<div class="row align-items-center">
 				<div class="col-lg-6 text-center text-lg-start">
 					<h1 class="headline">
-						Seamless HR Solutions <br />
-						for the everyday company.
+						Seamless HR solutions <br/>
+						for our training partners.
 					</h1>
 					<p class="subtext">
 						HR solutions specifically for SMMEs and frontline employees.
