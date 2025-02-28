@@ -65,11 +65,11 @@
 			<div class="row align-items-center">
 				<div class="col-lg-6 text-center text-lg-start">
 					<h1 class="headline">
-						Seamless HR solutions <br/>
-						for our training partners.
+						The number #1 HR software provider 
+					  </br> for Skills Development Agencies.
 					</h1>
 					<p class="subtext">
-						HR solutions specifically for SMMEs and frontline employees.
+						Seamless HR solutions for our training partners.
 					</p>
 				</div>
 				<div class="col-lg-6 text-center">
