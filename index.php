@@ -65,8 +65,8 @@
 			<div class="row align-items-center">
 				<div class="col-lg-6 text-center text-lg-start">
 					<h1 class="headline">
-						The number #1 HR software provider 
-					  </br> for Skills Development Agencies.
+						The preferred HR software 
+					  </br> for skills development agencies.
 					</h1>
 					<p class="subtext">
 						Seamless HR solutions for our training partners.
