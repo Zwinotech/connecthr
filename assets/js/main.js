@@ -192,10 +192,10 @@ yearlyBtn.addEventListener("click", () => {
 				<div class="col-md-4 mb-4">
 					<div class="pricing-card">
 						<h4>Individual</h4>
-						<h2>R262.20</h2>
-						<p>Per Person - Annually</p>
+						<h2>R345.00</h2>
+						<p>Per Learner - Annually</p>
 						<hr class="text-white my-3" />
-						<p>1 to 5 employees</p>
+						<p>1 to 5 learners</p>
 						<p>
 							<a class="btn-get-started" href="#contact">Get Started</a>
 						</p>
@@ -204,10 +204,10 @@ yearlyBtn.addEventListener("click", () => {
 				<div class="col-md-4 mb-4">
 					<div class="pricing-card">
 						<h4>Freelance</h4>
-						<h2>R276.00</h2>
-						<p>Per Person - Annually</p>
+						<h2>R317.40</h2>
+						<p>Per Learner - Annually</p>
 						<hr class="text-white my-3" />
-						<p>6 to 10 employees</p>
+						<p>6 to 10 learners</p>
 						<p>
 							<a class="btn-get-started" href="#contact">Get Started</a>
 						</p>
@@ -217,9 +217,9 @@ yearlyBtn.addEventListener("click", () => {
 					<div class="pricing-card">
 						<h4>Small Business</h4>
 						<h2>R297.00</h2>
-						<p>Per Person - Annually</p>
+						<p>Per Learner - Annually</p>
 						<hr class="text-white my-3" />
-						<p>11 to 50 employees</p>
+						<p>11 to 50 learners</p>
 						<p>
 							<a class="btn-get-started" href="#contact">Get Started</a>
 						</p>
@@ -228,10 +228,10 @@ yearlyBtn.addEventListener("click", () => {
 				<div class="col-md-4 mb-4">
 					<div class="pricing-card">
 						<h4>Medium Business</h4>
-						<h2>R317.40</h2>
-						<p>Per Person - Annually</p>
+						<h2>R276.00</h2>
+						<p>Per Learner - Annually</p>
 						<hr class="text-white my-3" />
-						<p>51 to 100 employees</p>
+						<p>51 to 100 learners</p>
 						<p>
 							<a class="btn-get-started" href="#contact">Get Started</a>
 						</p>
@@ -240,10 +240,10 @@ yearlyBtn.addEventListener("click", () => {
 				<div class="col-md-4 mb-4">
 					<div class="pricing-card">
 						<h4>Corporate</h4>
-						<h2>R345.00</h2>
-						<p>Per Person - Annually</p>
+						<h2>R262.00</h2>
+						<p>Per Learner - Annually</p>
 						<hr class="text-white my-3" />
-						<p>101 to 200 employees</p>
+						<p>101 to 200 learners</p>
 						<p>
 							<a class="btn-get-started" href="#contact">Get Started</a>
 						</p>
@@ -255,7 +255,7 @@ yearlyBtn.addEventListener("click", () => {
 						<h2>Special Request</h2>
 						<p>Annually</p>
 						<hr class="text-white my-3" />
-						<p>For more than 200 employees</p>
+						<p>For more than 200 learners</p>
 						<p>
 							<a class="btn-get-started" href="#contact">Get Started</a>
 						</p>
